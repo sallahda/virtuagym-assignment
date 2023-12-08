@@ -12,7 +12,7 @@ The system was designed and built using various tools and techniques. Below is a
 2. Node.js: Node.js is a runtime that allows for running JavaScript locally.
 3. Sequelize: Sequelize is an ORM (Object-Relational Mapper). It's a tool that lets you interact with your database, similiarly to how you would interact with a JavaScript object.
 4. Docker: Docker was the tool i used for containerization. 
-5. PostgreSQL
+5. PostgreSQL PostgreSQL is an advanced open-source relational database management system utilizing SQL for data management.
 6. Jest: Jest is a JavaScript testing framework with a focus on simplicity.
 
 The design pattern is often reffered to as MVC (Model-View-Controller). It helps keeping code easier to maintain and understand.
