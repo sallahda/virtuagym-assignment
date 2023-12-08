@@ -26,7 +26,7 @@ Make sure you have the following prerequisites installed on your machine:
 - Node.js v19 or above (https://nodejs.org/en/download)
 
 Steps:
-1. Clone the repository onto your local machine by running the following command in a terminal "https://github.com/recruitmentvg/sallahda"
+1. Clone the repository onto your local machine by running the following command in a terminal git clone https://github.com/sallahda/virtuagym-assignment.git
 2. Navigate into the cloned directory "cd virtuagym-assignment"
 3. Install all the necessary dependencies "npm install"
 
